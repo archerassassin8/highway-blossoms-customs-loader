@@ -1,5 +1,10 @@
 # Highway Blossoms Customs Loader
-A custom scene loader for the visual novel Highway Blossoms.	
+A custom scene loader for the visual novel Highway Blossoms.
+
+<img src="https://github.com/archerassassin8/highway-blossoms-customs-loader/assets/34815165/2b244520-cc0c-4a88-a1da-880bce741171" height="270">
+<img src="https://github.com/archerassassin8/highway-blossoms-customs-loader/assets/34815165/8d339fc8-9046-498b-8cfc-45b390ca4cbb" width="480">
+<img src="https://github.com/archerassassin8/highway-blossoms-customs-loader/assets/34815165/bb5cbee7-ee28-454b-a5fa-2753de12685a" width="480">
+
 ## Installation
 
 1) Download the latest release of the Highway Blossoms Customs Loader (HBCL).
